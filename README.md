@@ -7,10 +7,19 @@
 </p>
 
 <p align="center">
+  <a href="https://naitik-raj.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/-Resume-2E7D32?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume (PDF)"></a>
   <a href="https://naitik-raj.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/naitikraj17/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/naitik_17/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:rajnaitikone@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/naitik_17/"><img src="https://img.shields.io/badge/LeetCode-1527-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode, rating 1527"></a>
+  <a href="https://codeforces.com/profile/tedhe_medhe"><img src="https://img.shields.io/badge/Codeforces-1565_max-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces, max rating 1565"></a>
+  <a href="https://www.codechef.com/users/for_care_16"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://www.geeksforgeeks.org/profile/rajnaittwx5"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+  <a href="https://cses.fi/user/403769"><img src="https://img.shields.io/badge/-CSES-1A1A1A?style=flat-square" alt="CSES"></a>
+  <a href="https://www.spoj.com/status/KOZE,naitik_17z/"><img src="https://img.shields.io/badge/-SPOJ-337AB7?style=flat-square" alt="SPOJ"></a>
 </p>
 
 ## Hi, I'm Naitik 👋
@@ -34,7 +43,7 @@ May – Aug 2027.
 | [Cravio](https://github.com/naitik-raj17/Cravio) · [FOOD-Project](https://github.com/naitik-raj17/FOOD-Project) | Distributed food delivery: 6 Dockerized microservices, event-driven orders over RabbitMQ, Razorpay/Stripe payments, JWT + RBAC, live tracking with Socket.io + Maps | Node.js · MongoDB · RabbitMQ · Docker | |
 | [muhurat](https://github.com/naitik-raj17/muhurat) | Multi-tenant AI planning platform where LLM agents manage vendors and budgets, with human approvals, audit logs, rollback, encrypted PII, and pgvector + full-text hybrid search (RRF) | Python · FastAPI · PostgreSQL | |
 | [gogitX](https://github.com/naitik-raj17/gogitX) · [version-control-system](https://github.com/naitik-raj17/version-control-system) | Git-inspired VCS: content-addressed storage (SHA-1/SHA-256), zlib, binary index, atomic writes; race, fuzz and integration tests; Go vs Python benchmarks | Go · Python | |
-| [Amazon_Review_Platform](https://github.com/naitik-raj17/Amazon_Review_Platform) | Review intelligence: classifier trained on 21K reviews at 95.7% accuracy, served via a FastAPI REST API | Python · scikit-learn · FastAPI | |
+| [Amazon_Review_Platform](https://github.com/naitik-raj17/Amazon_Review_Platform) | Review intelligence: classifier trained on 21K reviews at 95.7% accuracy, served via a FastAPI REST API | Python · scikit-learn · FastAPI | [live](https://amazon-review-intelligencedashboarddashboard-fbobxy.streamlit.app/) |
 | [network-agent](https://github.com/naitik-raj17/network-agent) | Network monitoring dashboard with a cross-platform agent, device discovery, and bandwidth enforcement via Linux tc/HTB | JavaScript | |
 | [avio](https://github.com/naitik-raj17/avio) | Avio Lines: live lecture platform with 1,826 lectures and 200+ users | TypeScript · React · Node.js | [live](https://avio-sg6e-tau.vercel.app/) |
 | [Anzen](https://github.com/naitik-raj17/Anzen) · [_anzen](https://github.com/naitik-raj17/_anzen) | Anzen web project | CSS · HTML | [demo](https://anzen-sage.vercel.app) |
