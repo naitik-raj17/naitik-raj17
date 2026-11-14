@@ -15,18 +15,28 @@
 
 ## Hi, I'm Naitik 👋
 
-I'm a B.Tech CSE student at NIT Patna who learns by building. Lately that means AI agents and RL environments,
-distributed and networked systems, and full-stack products — most recently an AI operating
-layer for Indian wedding planners and a NASA Space Apps 2026 project.
+I'm a B.Tech CSE student at NIT Patna (class of 2028) with 1+ year of hands-on development across the
+full SDLC, from requirements to deployment and monitoring. I'm strongest in Python and SQL, and I build
+secure, audit-ready systems with payments, RBAC and PII protection. I'm available for internships
+May – Aug 2027.
+
+## Experience
+
+**Founder & Solo Developer, [Avio Lines](https://avio-sg6e-tau.vercel.app/)** · TypeScript, Node.js, MongoDB, React · Oct 2026 – present
+- Own the end-to-end SDLC of a live 1,826-lecture product with 200+ users and 15K+ monthly views.
+- Redesigned APIs after profiling bottlenecks: API calls per page 5.3 → 1.9, DB ops 13.5 → 3.4.
+- Validated releases with k6 load tests: 5× concurrency, CPU 74% → 21% via LRU caching and ETags.
 
 ## Featured projects
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| [Cravio](https://github.com/naitik-raj17/Cravio) | Real-time geo-based food delivery: JWT auth, Owner/User/Delivery roles, live order tracking with Socket.io + Maps, payments | MERN | |
-| [FOOD-Project](https://github.com/naitik-raj17/FOOD-Project) | The food delivery app Cravio grew out of | JavaScript | |
+| [Cravio](https://github.com/naitik-raj17/Cravio) · [FOOD-Project](https://github.com/naitik-raj17/FOOD-Project) | Distributed food delivery: 6 Dockerized microservices, event-driven orders over RabbitMQ, Razorpay/Stripe payments, JWT + RBAC, live tracking with Socket.io + Maps | Node.js · MongoDB · RabbitMQ · Docker | |
+| [muhurat](https://github.com/naitik-raj17/muhurat) | Multi-tenant AI planning platform where LLM agents manage vendors and budgets, with human approvals, audit logs, rollback, encrypted PII, and pgvector + full-text hybrid search (RRF) | Python · FastAPI · PostgreSQL | |
+| [gogitX](https://github.com/naitik-raj17/gogitX) · [version-control-system](https://github.com/naitik-raj17/version-control-system) | Git-inspired VCS: content-addressed storage (SHA-1/SHA-256), zlib, binary index, atomic writes; race, fuzz and integration tests; Go vs Python benchmarks | Go · Python | |
+| [Amazon_Review_Platform](https://github.com/naitik-raj17/Amazon_Review_Platform) | Review intelligence: classifier trained on 21K reviews at 95.7% accuracy, served via a FastAPI REST API | Python · scikit-learn · FastAPI | |
 | [network-agent](https://github.com/naitik-raj17/network-agent) | Network monitoring dashboard with a cross-platform agent, device discovery, and bandwidth enforcement via Linux tc/HTB | JavaScript | |
-| [avio](https://github.com/naitik-raj17/avio) | Web app built with TypeScript | TypeScript | [demo](https://avio-sg6e-tau.vercel.app/) |
+| [avio](https://github.com/naitik-raj17/avio) | Avio Lines: live lecture platform with 1,826 lectures and 200+ users | TypeScript · React · Node.js | [live](https://avio-sg6e-tau.vercel.app/) |
 | [Anzen](https://github.com/naitik-raj17/Anzen) · [_anzen](https://github.com/naitik-raj17/_anzen) | Anzen web project | CSS · HTML | [demo](https://anzen-sage.vercel.app) |
 | [portfolio](https://github.com/naitik-raj17/portfolio) | Personal portfolio site | HTML | [site](https://portfolio-beta-two-47.vercel.app) |
 | wedding_planner *(private)* | AI operating layer for wedding planning companies: vendor discovery, RSVP, timelines, budget | FastAPI · React | |
@@ -39,11 +49,7 @@ layer for Indian wedding planners and a NASA Space Apps 2026 project.
 | [Openenv_RL](https://github.com/naitik-raj17/Openenv_RL) | Reinforcement-learning environments | Python |
 | [Network_distributed_system](https://github.com/naitik-raj17/Network_distributed_system) | Distributed systems | Python |
 | [CSMA](https://github.com/naitik-raj17/CSMA) | CSMA network protocol | Python |
-| [gogitX](https://github.com/naitik-raj17/gogitX) | Git-style version control | Go |
-| [version-control-system](https://github.com/naitik-raj17/version-control-system) | Version control system | Python |
 | [genetic-algo](https://github.com/naitik-raj17/genetic-algo) | Genetic algorithms | TypeScript |
-| [Amazon_Review_Platform](https://github.com/naitik-raj17/Amazon_Review_Platform) | Product review platform | Python |
-| [muhurat](https://github.com/naitik-raj17/muhurat) | Muhurat (auspicious timing) tool | Python |
 | [spotify-clone-flutter-Hackslash-](https://github.com/naitik-raj17/spotify-clone-flutter-Hackslash-) | Spotify clone (Hackslash) | Flutter |
 | [firebase-form-setup-Hackslash](https://github.com/naitik-raj17/firebase-form-setup-Hackslash) | Firebase form setup (Hackslash) | Firebase |
 | [OS-lab](https://github.com/naitik-raj17/OS-lab) · [OS-lab-](https://github.com/naitik-raj17/OS-lab-) | Operating systems lab | JavaScript |
@@ -60,6 +66,33 @@ layer for Indian wedding planners and a NASA Space Apps 2026 project.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,go,cpp,react,fastapi,flutter,firebase,docker,linux,git" alt="Python, TypeScript, JavaScript, Go, C++, React, FastAPI, Flutter, Firebase, Docker, Linux, Git" />
 </p>
+
+**Languages:** Python, SQL, C++, Go, TypeScript, JavaScript<br>
+**Backend & data:** REST APIs, FastAPI, Node.js, Express, microservices, PostgreSQL, MySQL, MongoDB, Redis<br>
+**Testing:** unit, integration, fuzz and load testing (k6), debugging, root-cause analysis<br>
+**Security:** JWT/RBAC auth, PII encryption, audit logging, approval workflows, payments<br>
+**Tools:** Docker, Linux, RabbitMQ, Prometheus, Sentry, Git, CI/CD
+
+## Achievements
+
+- 900+ DSA problems solved across LeetCode, Codeforces, CSES, GFG, CodeChef and SPOJ
+- Codeforces max rating 1565 · LeetCode rating 1527
+- ICPC 2026 Amritapuri Preliminary participant · Huawei Online Challenge 1, global rank 1412
+- Strong showings at the Adobe Hackathon, Flipkart GRID, Amazon ML Summer School and SIH
+- NPTEL Joy of Computing in Python, top 2% · AlgoUniversity Contest, top 4.13% (2025)
+- Machine Learning Specialization, Stanford & DeepLearning.AI
+- Organised a club event for the Robotics Club, NIT Patna
+
+<details>
+<summary><b>Education</b></summary>
+
+| Degree | Institute | Score | Year |
+|---|---|---|---|
+| B.Tech, CSE | National Institute of Technology, Patna | 7.85 CGPA | 2024–2028 |
+| Senior Secondary | ANS College / BSEB | 82.8% | 2023 |
+| Secondary | Notre Dame Academy / CBSE | 93.6% | 2021 |
+
+</details>
 
 ## GitHub activity
 
