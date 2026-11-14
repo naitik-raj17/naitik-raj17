@@ -49,6 +49,11 @@ layer for Indian wedding planners and a NASA Space Apps 2026 project.
 | [OS-lab](https://github.com/naitik-raj17/OS-lab) · [OS-lab-](https://github.com/naitik-raj17/OS-lab-) | Operating systems lab | JavaScript |
 | [super10_project](https://github.com/naitik-raj17/super10_project) | super10 | — |
 | [todo-list](https://github.com/naitik-raj17/todo-list) · [demo-repo](https://github.com/naitik-raj17/demo-repo) | Starter projects | HTML |
+| mik-academy *(private)* | MIK Academy website | TypeScript |
+| mik-academy-analytics *(private)* | Daily archive of MIK Academy site analytics, kept for a year | Shell |
+| CPU-Scheduling *(private)* | CPU scheduling algorithms | — |
+| hospital · hospitalwebsite *(private)* | Hospital website | HTML |
+| contact-us · todo · coding *(private)* | Small practice projects | — |
 
 ## Tech I use
 
