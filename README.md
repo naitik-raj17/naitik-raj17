@@ -28,14 +28,6 @@ I'm a B.Tech CSE student at NIT Patna (class of 2028) with 1+ year of hands-on d
 full SDLC, from requirements to deployment and monitoring. I'm strongest in Python and SQL, and I build
 secure, audit-ready systems with payments, RBAC and PII protection. I'm available for internships
 May – Aug 2027.
-
-## Experience
-
-**Founder & Solo Developer, [Avio Lines](https://avio-sg6e-tau.vercel.app/)** · TypeScript, Node.js, MongoDB, React · Oct 2026 – present
-- Own the end-to-end SDLC of a live 1,826-lecture product with 200+ users and 15K+ monthly views.
-- Redesigned APIs after profiling bottlenecks: API calls per page 5.3 → 1.9, DB ops 13.5 → 3.4.
-- Validated releases with k6 load tests: 5× concurrency, CPU 74% → 21% via LRU caching and ETags.
-
 ## Featured projects
 
 | Project | What it is | Stack | Live |
@@ -45,7 +37,6 @@ May – Aug 2027.
 | [gogitX](https://github.com/naitik-raj17/gogitX) · [version-control-system](https://github.com/naitik-raj17/version-control-system) | Git-inspired VCS: content-addressed storage (SHA-1/SHA-256), zlib, binary index, atomic writes; race, fuzz and integration tests; Go vs Python benchmarks | Go · Python | |
 | [Amazon_Review_Platform](https://github.com/naitik-raj17/Amazon_Review_Platform) | Review intelligence: classifier trained on 21K reviews at 95.7% accuracy, served via a FastAPI REST API | Python · scikit-learn · FastAPI | [live](https://amazon-review-intelligencedashboarddashboard-fbobxy.streamlit.app/) |
 | [network-agent](https://github.com/naitik-raj17/network-agent) | Network monitoring dashboard with a cross-platform agent, device discovery, and bandwidth enforcement via Linux tc/HTB | JavaScript | |
-| [avio](https://github.com/naitik-raj17/avio) | Avio Lines: live lecture platform with 1,826 lectures and 200+ users | TypeScript · React · Node.js | [live](https://avio-sg6e-tau.vercel.app/) |
 | [Anzen](https://github.com/naitik-raj17/Anzen) · [_anzen](https://github.com/naitik-raj17/_anzen) | Anzen web project | CSS · HTML | [demo](https://anzen-sage.vercel.app) |
 | [portfolio](https://github.com/naitik-raj17/portfolio) | Personal portfolio site | HTML | [site](https://portfolio-beta-two-47.vercel.app) |
 | wedding_planner *(private)* | AI operating layer for wedding planning companies: vendor discovery, RSVP, timelines, budget | FastAPI · React | |
