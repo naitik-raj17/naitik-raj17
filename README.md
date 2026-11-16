@@ -25,7 +25,7 @@
 ## Hi, I'm Naitik 👋
 
 I'm a B.Tech CSE student at NIT Patna (class of 2028) with 1+ year of hands-on development across the
-full SDLC, from requirements to deployment and monitoring. I'm strongest in Python and SQL, and I build
+full SDLC, from requirements to deployment and monitoring. I build
 secure, audit-ready systems with payments, RBAC and PII protection. I'm available for internships
 May – Aug 2027.
 ## Featured projects
